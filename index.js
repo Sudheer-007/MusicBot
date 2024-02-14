@@ -1,3 +1,4 @@
+require('./pappu')
 const discord = require("discord.js");
 const { Poru } = require("poru");
 require("dotenv").config()
