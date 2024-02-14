@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const { stripIndent } = require("common-tags");
 const colors = require('colors')
 
@@ -15,7 +14,3 @@ console.log(
 -------------------------------------------------------------------
     `.green.bold
 );
-=======
-client.login(process.env.TOKEN).catch(e => console.log("Lol"))
-                
->>>>>>> ce66fd728b08ba39a8aebc74056f997604f4a903
